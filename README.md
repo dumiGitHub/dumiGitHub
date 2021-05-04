@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dumiGitHub
 - 👀 I’m interested in our future as species, how technology is improving our lives and how the robots will make our life easier xD
-- 🌱 I'm currently learning Algorithms & Data Structures + Web Development(to become a full stack)
+- 🌱 I'm currently learning Web Development(to become a Full Stack Developer)
 - 💞️ I’m looking to collaborate on diverse projects (freelance/startups)
 - 📫 How to reach me: cernei_dumitru@protonmail.com
 
